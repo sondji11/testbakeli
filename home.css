@@ -1,0 +1,57 @@
+body{
+    height: 100vh;
+    width: 100%;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /* align-content: center;    */
+    background-color:#FCB810;
+    height: 100vh;
+    width: 100%;
+    padding-top: 20%;
+}
+.petit{
+background-color: #FFFFFF;
+    height: 60vh;
+    width: 46%;
+   border-radius: 8px;
+   text-align: left;
+   padding-left: 15px;
+   padding-right: 15px;
+
+ 
+
+}
+.bts{
+    background-color: #FCB810;
+    color: #FFFFFF;
+    width:25em ;
+    height: 2.3rem;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 6rem;
+    margin-left: 3em;
+}
+.title{
+    text-align: center;
+}
+.foorm{
+margin-top: 2em;
+}
+form{
+    margin-top:40px ;
+
+}
+span{
+    color: #FCB810;
+}
+#pp{
+text-align: center;
+margin-top: 2em;
+}
+h1{
+    margin-top:10px ;
+}

@@ -1,0 +1,47 @@
+.container{
+    background-color: #E5E5E5;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+}
+.left{
+    background-color: blue;
+    height: 100vh;
+    width:30% ;
+}
+.right{
+    /* background-color: yellow; */
+    height: 100vh;
+    width:70% ;
+    display: flex;
+    flex-direction: column;
+}
+.head{
+    background-color: #FDB60C;
+    /* height: vh; */
+    width:70% ;
+    border:solid black 2px ;
+    color: black;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin-left: 2rem;
+}
+.double{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    height: 60vh;
+    width:100% ;
+    margin-top: 10rem;
+}
+.soft{
+    background-color: bisque;
+    width: 50%;
+
+}
+.rights{
+    background-color: orangered;
+    width: 50%;
+}
